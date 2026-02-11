@@ -25,9 +25,8 @@ dart-school-lab/
 ├── lib/main.dart              # Complete Dart solutions for all 20 questions
 ├── pubspec.yaml               # Project dependencies and metadata
 ├── documentation/             # Submission materials
-│   ├── screenshots/           # Console outputs for each question
 │   ├── report.pdf             # Scanned handwritten summary report
-│   └── lab-summary.docx       # Word document with screenshots
+│   └── results_ss.docx        # Word document with screenshots
 ├── .gitignore                 # Git exclusion rules
 └── README.md                  # This documentation
 ```
@@ -103,7 +102,7 @@ dart run lib/main.dart
 
 All question outputs are documented in:
 
-* `documentation/lab-summary.docx` – Word document contains the output screenshots
+* `documentation/results_ss.docx` – Word document contains the output screenshots
 * `documentation/report.pdf` – Handwritten explanations for each question
 
 ---
@@ -114,14 +113,12 @@ All question outputs are documented in:
 
 * **Source Code** (`lib/main.dart`) – Code implementations of all questions 
 * **Handwritten Report** (`documentation/report.pdf`) – Explanations
-* **Word Document** (`documentation/lab-summary.docx`) – program outputs
+* **Word Document** (`documentation/results_ss.docx`) – program outputs
 
 ---
 
 ## 👥 Contributors
 
 * >Nelson RUTWAZA _______________ 223026976
-  >Beatrice UWAJENEZA ___________ 223028059
-  >Aimable SEMUHUNGU ____________ 223026680
-
-* Course: Mobile Development
+*  >Beatrice UWAJENEZA ___________ 223028059
+*  >Aimable SEMUHUNGU ____________ 223026680
