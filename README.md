@@ -25,7 +25,7 @@ dart-school-lab/
 ├── lib/main.dart              # Complete Dart solutions for all 20 questions
 ├── pubspec.yaml               # Project dependencies and metadata
 ├── documentation/             # Submission materials
-│   ├── report.pdf             # Scanned handwritten summary report
+│   ├── reports/(images)       # Scanned handwritten summary report
 │   └── results_ss.docx        # Word document with screenshots
 ├── .gitignore                 # Git exclusion rules
 └── README.md                  # This documentation
@@ -103,7 +103,7 @@ dart run lib/main.dart
 All question outputs are documented in:
 
 * `documentation/results_ss.docx` – Word document contains the output screenshots
-* `documentation/report.pdf` – Handwritten explanations for each question
+* `documentation/reports/(scaned images)` – Handwritten explanations for each question
 
 ---
 
@@ -112,7 +112,7 @@ All question outputs are documented in:
 ### Required Files
 
 * **Source Code** (`lib/main.dart`) – Code implementations of all questions 
-* **Handwritten Report** (`documentation/report.pdf`) – Explanations
+* **Handwritten Report** (`documentation/reports/paper_1, paper_2, paper_3`) – Explanations
 * **Word Document** (`documentation/results_ss.docx`) – program outputs
 
 ---
