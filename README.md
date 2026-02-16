@@ -117,6 +117,24 @@ All question outputs are documented in:
 
 ---
 
+## THE OUTPUT SCREENSHOTS
+
+### App Screenshots
+
+![Screenshot 1](documentation/screenshots/image1.png)
+![Screenshot 2](documentation/screenshots/image2.png)
+![Screenshot 3](documentation/screenshots/image3.png)
+
+### Results (Handwritten)
+
+![Paper 1](documentation/results/paper_1.jpeg)
+![Paper 2](documentation/results/paper_2.jpeg)
+![Paper 3](documentation/results/paper_3.jpeg)
+![Paper 4](documentation/results/paper_4.jpeg)
+
+
+
+
 ## 👥 Contributors
 
 * >Nelson RUTWAZA _______________ 223026976
